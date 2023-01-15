@@ -1,3 +1,4 @@
+//1일차
 public class hello1 {
     public static int sum(int n, int m) {
         return n + m;
